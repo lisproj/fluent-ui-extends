@@ -1,0 +1,19 @@
+name: fluent_ui_extends
+description: "Reusable Flutter Fluent UI extends widgets to quickly build more pages."
+repository: https://github.com/lisproj/fluent-ui-extends
+version: 0.0.0
+resolution: workspace
+
+environment:
+  sdk: ^3.6.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fluent_ui_settings: ^0.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
