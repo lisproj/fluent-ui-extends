@@ -1,6 +1,6 @@
 # Fluent UI Extends
 
-Reusable Flutter Fluent UI extends widgets to quickly build more pages.
+Reusable Flutter Fluent UI extension widgets to quickly build more pages.
 
 ## Getting started
 

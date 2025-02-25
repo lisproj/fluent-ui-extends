@@ -1,5 +1,5 @@
 name: fluent_ui_settings
-description: "A new Flutter package project."
+description: "Reusable Fluent UI extension widgets to quickly build stunning, Windows-native-like settings pages"
 repository: https://github.com/lisproj/fluent-ui-extends
 version: 0.0.0
 resolution: workspace

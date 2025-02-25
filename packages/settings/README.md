@@ -1,5 +1,7 @@
 # Fluent UI Settings
 
+Reusable Fluent UI extension widgets to quickly build stunning, Windows-native-like settings pages
+
 ## Getting started
 
 Install [`fluent_ui`](https://pub.dev/packages/fluent_ui) to your Flutter project dependencies first.
